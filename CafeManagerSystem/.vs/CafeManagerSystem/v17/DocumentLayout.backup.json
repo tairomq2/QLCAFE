@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\QLCafe\\CafeManagerSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFF54C2-0363-4035-8A0C-C3042EFF4E0B}|Infrastructure\\Infrastructure.csproj|e:\\qlcafe\\cafemanagersystem\\infrastructure\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFF54C2-0363-4035-8A0C-C3042EFF4E0B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFF54C2-0363-4035-8A0C-C3042EFF4E0B}|Infrastructure\\Infrastructure.csproj|e:\\qlcafe\\cafemanagersystem\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFF54C2-0363-4035-8A0C-C3042EFF4E0B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8306069-F048-4E93-8B1C-A4309F1F25D6}|Application\\Application.csproj|e:\\qlcafe\\cafemanagersystem\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8306069-F048-4E93-8B1C-A4309F1F25D6}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE4553-456D-4AB6-B912-0394CF11F3FE}|CafeManagerSystem\\CafeManagerSystem.csproj|e:\\qlcafe\\cafemanagersystem\\cafemanagersystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AE4553-456D-4AB6-B912-0394CF11F3FE}|CafeManagerSystem\\CafeManagerSystem.csproj|solutionrelative:cafemanagersystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8306069-F048-4E93-8B1C-A4309F1F25D6}|Application\\Application.csproj|e:\\qlcafe\\cafemanagersystem\\application\\features\\common\\handlers\\employees\\deleteemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8306069-F048-4E93-8B1C-A4309F1F25D6}|Application\\Application.csproj|solutionrelative:application\\features\\common\\handlers\\employees\\deleteemployeehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE4553-456D-4AB6-B912-0394CF11F3FE}|CafeManagerSystem\\CafeManagerSystem.csproj|e:\\qlcafe\\cafemanagersystem\\cafemanagersystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AE4553-456D-4AB6-B912-0394CF11F3FE}|CafeManagerSystem\\CafeManagerSystem.csproj|solutionrelative:cafemanagersystem\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8306069-F048-4E93-8B1C-A4309F1F25D6}|Application\\Application.csproj|e:\\qlcafe\\cafemanagersystem\\application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8306069-F048-4E93-8B1C-A4309F1F25D6}|Application\\Application.csproj|solutionrelative:application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8306069-F048-4E93-8B1C-A4309F1F25D6}|Application\\Application.csproj|e:\\qlcafe\\cafemanagersystem\\application\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8306069-F048-4E93-8B1C-A4309F1F25D6}|Application\\Application.csproj|solutionrelative:application\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFF54C2-0363-4035-8A0C-C3042EFF4E0B}|Infrastructure\\Infrastructure.csproj|e:\\qlcafe\\cafemanagersystem\\infrastructure\\data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBFF54C2-0363-4035-8A0C-C3042EFF4E0B}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE933E44-73A8-4AED-8901-D5E8365D6795}|Core\\Core.csproj|e:\\qlcafe\\cafemanagersystem\\core\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE933E44-73A8-4AED-8901-D5E8365D6795}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\QLCafe\\CafeManagerSystem\\CafeManagerSystem\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CafeManagerSystem\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\QLCafe\\CafeManagerSystem\\CafeManagerSystem\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CafeManagerSystem\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:18:05.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\QLCafe\\CafeManagerSystem\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\QLCafe\\CafeManagerSystem\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:58:34.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\QLCafe\\CafeManagerSystem\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "E:\\QLCafe\\CafeManagerSystem\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:28:14.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\QLCafe\\CafeManagerSystem\\Infrastructure\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\QLCafe\\CafeManagerSystem\\Infrastructure\\Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:31:45.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteEmployeeHandler.cs",
+              "DocumentMoniker": "E:\\QLCafe\\CafeManagerSystem\\Application\\Features\\Common\\Handlers\\Employees\\DeleteEmployeeHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Common\\Handlers\\Employees\\DeleteEmployeeHandler.cs",
+              "ToolTip": "E:\\QLCafe\\CafeManagerSystem\\Application\\Features\\Common\\Handlers\\Employees\\DeleteEmployeeHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Common\\Handlers\\Employees\\DeleteEmployeeHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:11:26.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "E:\\QLCafe\\CafeManagerSystem\\Application\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\InvoiceService.cs",
+              "ToolTip": "E:\\QLCafe\\CafeManagerSystem\\Application\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "Application\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:23:18.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\QLCafe\\CafeManagerSystem\\Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\OrderService.cs",
+              "ToolTip": "E:\\QLCafe\\CafeManagerSystem\\Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowMAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:21:26.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\QLCafe\\CafeManagerSystem\\CafeManagerSystem\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "CafeManagerSystem\\Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\QLCafe\\CafeManagerSystem\\CafeManagerSystem\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "CafeManagerSystem\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:21:14.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\QLCafe\\CafeManagerSystem\\Infrastructure\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Repositories\\OrderRepository.cs",
+              "ToolTip": "E:\\QLCafe\\CafeManagerSystem\\Infrastructure\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:13:56.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\QLCafe\\CafeManagerSystem\\Core\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "E:\\QLCafe\\CafeManagerSystem\\Core\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:10:20.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
